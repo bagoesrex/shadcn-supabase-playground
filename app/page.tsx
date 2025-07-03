@@ -10,6 +10,9 @@ export default function Home() {
       <Button>
         <Link href="/alert-dialog">Alert Dialog</Link>
       </Button>
+      <Button>
+        <Link href="/supabase">Supabase</Link>
+      </Button>
     </>
   );
 }
